@@ -1,0 +1,26 @@
+{
+    "mahasiswa":[
+        {"id":1,"name":"Lesser mouse lemur","prodi":"Teknik Informatika"},
+        {"id":2,"name":"Sloth, two-toed","prodi":"Teknik Informatika"},
+        {"id":3,"name":"White-mantled colobus","prodi":"Teknik Informatika"},
+        {"id":4,"name":"Barbet, crested","prodi":"Teknik Informatika"},
+        {"id":5,"name":"White-winged black tern","prodi":"Teknik Sipil"},
+        {"id":6,"name":"Waterbuck, common","prodi":"Teknik Sipil"},
+        {"id":7,"name":"Western patch-nosed snake","prodi":"Teknik Sipil"},
+        {"id":8,"name":"Crab-eating fox","prodi":"Arsitektur"},
+        {"id":9,"name":"Lesser flamingo","prodi":"Arsitektur"},
+        {"id":10,"name":"Southern ground Arsitektur","prodi":"Arsitektur"},
+        {"id":11,"name":"Dama wallaby","prodi":"Arsitektur"},
+        {"id":12,"name":"Dolphin, striped","prodi":"Arsitektur"},
+        {"id":13,"name":"Pine squirrel","prodi":"Arsitektur"},
+        {"id":14,"name":"Chipmunk, least","prodi":"Teknik Informatika"},
+        {"id":15,"name":"Grouse, sage","prodi":"Teknik Informatika"},
+        {"id":16,"name":"Screamer, southern","prodi":"Teknik Informatika"},
+        {"id":17,"name":"Seven-banded armadillo","prodi":"Teknik Sipil"},
+        {"id":18,"name":"Galapagos tortoise","prodi":"Teknik Sipil"},
+        {"id":19,"name":"Nighthawk, common","prodi":"Teknik Sipil"},
+        {"id":20,"name":"Malabar squirrel","prodi":"Teknik Sipil"}
+    ]
+
+}
+
