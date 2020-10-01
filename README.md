@@ -1,5 +1,2 @@
 # amoeba
-deskripsikan apa yang ingin anda kembangkan?
-next what are you doing?
-
-i will creat crud from start new ...
+I need help to create an oop crud file
